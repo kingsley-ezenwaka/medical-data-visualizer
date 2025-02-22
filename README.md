@@ -12,7 +12,4 @@ The dataset is a record of anonymous patient's medical information collected dur
 ### Acknowledgements
 This project was previously completed as part of the requirements for the **Data Analysis with Python** certification from [freeCodeCamp.com](https://www.freecodecamp.org/learn/data-analysis-with-python/).
 
-The dataset descriptions and project instructions below are adapted directly from the [freecodecamp project page](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer).### Acknowledgements
-This project was previously completed as part of the requirements for the **Data Analysis with Python** certification from [freeCodeCamp.com](https://www.freecodecamp.org/learn/data-analysis-with-python/).
-
 The dataset descriptions and project instructions below are adapted directly from the [freecodecamp project page](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer).
